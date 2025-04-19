@@ -16,7 +16,7 @@ export default function Home() {
         setMobileMenuOpen={setMobileMenuOpen}
       />
       <HeroSection />
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }
